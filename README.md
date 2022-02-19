@@ -6,7 +6,7 @@ This is a simple website for weather update . you can find weather updates just 
 ## Language and technology
 - HTML
 
-- CSS and SCSS
+- CSS and SASS
 
 - Row JavaScript
 
@@ -17,3 +17,4 @@ This is a simple website for weather update . you can find weather updates just 
 
 
 ## damo
+![damo img](https://github.com/coden-arfat/weatherApp_/blob/master/damo.png)
