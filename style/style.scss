@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+.card{
+  background-color: rgba(0, 0, 0, 0.781);
+  color: azure;
+  border: solid 0;
+  border-radius: 15px;
+  box-shadow: 2px 3px 2px;
+  padding: 2rem;
+  width: 100%;
+  max-width: 400px;
+  margin: 1rem;
+  h2{
+    text-align: center ;
+    padding: 1rem;
+    text-transform: uppercase;
+  }
+  p{
+    text-align: start;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  input{
+    outline: none;
+    line-height: 2rem;
+    border: solid 0;
+    border-radius: 15px;
+    text-align: center;
+  
+  }
+}
