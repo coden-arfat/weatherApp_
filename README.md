@@ -3,7 +3,7 @@
 # WEATHER UPDATE APP
 This is a simple website for weather update . you can find weather updates just by searching city name.
 
-## Language and technology
+## Language and Technology
 - HTML
 
 - CSS and SASS
