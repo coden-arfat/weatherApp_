@@ -1,8 +1,10 @@
-* {
+body {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  background-image: url("https://source.unsplash.com/1600x900/?landscape");
+  font-family: 'Open Sans', sans-serif;
 }
 
 .main {
@@ -24,8 +26,6 @@
   color: azure;
   border: solid 0;
   border-radius: 15px;
-  -webkit-box-shadow: 2px 3px 2px;
-          box-shadow: 2px 3px 2px;
   padding: 2rem;
   width: 100%;
   max-width: 400px;
